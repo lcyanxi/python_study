@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131fb917-460e-4118-99c1-f4d2ead05659" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py/alien_invasion/game_functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py/alien_invasion/ship.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python_study.iml" afterPath="$PROJECT_DIR$/.idea/python_study.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py/alien_invasion/alien_invasion.py" afterPath="$PROJECT_DIR$/py/alien_invasion/alien_invasion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py/alien_invasion/game_functions.py" afterPath="$PROJECT_DIR$/py/alien_invasion/game_functions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py/alien_invasion/settings.py" afterPath="$PROJECT_DIR$/py/alien_invasion/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py/alien_invasion/ship.py" afterPath="$PROJECT_DIR$/py/alien_invasion/ship.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,9 +19,11 @@
     <SUITE FILE_PATH="coverage/python_study$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1515843145061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/aliens" />
     <SUITE FILE_PATH="coverage/python_study$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1515748738532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
     <SUITE FILE_PATH="coverage/python_study$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1515754707829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/test" />
+    <SUITE FILE_PATH="coverage/python_study$ship.coverage" NAME="ship Coverage Results" MODIFIED="1515851020581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien_invasion" />
     <SUITE FILE_PATH="coverage/python_study$settings.coverage" NAME="settings Coverage Results" MODIFIED="1515845284961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien_invasion" />
-    <SUITE FILE_PATH="coverage/python_study$alien_invasion__2_.coverage" NAME="alien_invasion (2) Coverage Results" MODIFIED="1515848505643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien_invasion" />
+    <SUITE FILE_PATH="coverage/python_study$alien_invasion__2_.coverage" NAME="alien_invasion (2) Coverage Results" MODIFIED="1515857942422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien_invasion" />
     <SUITE FILE_PATH="coverage/python_study$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1515843588791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien" />
+    <SUITE FILE_PATH="coverage/python_study$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1515849401960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/alien_invasion" />
     <SUITE FILE_PATH="coverage/python_study$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1515837249641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py/test" />
   </component>
   <component name="FileEditorManager">
@@ -30,8 +31,8 @@
       <file leaf-file-name="alien_invasion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/py/alien_invasion/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="-18">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="e#178#191#0" expanded="true" />
               </folding>
@@ -42,8 +43,8 @@
       <file leaf-file-name="game_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py/alien_invasion/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="307">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="e#178#188#0" expanded="true" />
               </folding>
@@ -51,21 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ship.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py/alien_invasion/ship.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/alien_invasion/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="306">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py/alien_invasion/settings.py">
+      <file leaf-file-name="ship.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/alien_invasion/ship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="-18">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -91,10 +92,10 @@
         <option value="$PROJECT_DIR$/py/test/test01.py" />
         <option value="$PROJECT_DIR$/py/aliens/settings.py" />
         <option value="$PROJECT_DIR$/py/aliens/alien_invasion.py" />
-        <option value="$PROJECT_DIR$/py/alien_invasion/ship.py" />
         <option value="$PROJECT_DIR$/py/alien_invasion/settings.py" />
-        <option value="$PROJECT_DIR$/py/alien_invasion/game_functions.py" />
         <option value="$PROJECT_DIR$/py/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/py/alien_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/py/alien_invasion/game_functions.py" />
       </list>
     </option>
   </component>
@@ -104,7 +105,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="123" />
     <option name="y" value="15" />
     <option name="width" value="1400" />
@@ -243,20 +244,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="game_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py/aliens" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py/alien_invasion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\python_study\python_study\py\alien\alien_invasion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/alien_invasion/game_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,38 +280,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ship" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py/alien_invasion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/test/test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/alien_invasion/ship.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.alien_invasion" />
-      <item index="2" class="java.lang.String" itemvalue="Python.alien_invasion (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.alien_invasion (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.settings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.alien_invasion (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.alien_invasion (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.settings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.game_functions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ship" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.alien_invasion (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.settings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.alien_invasion (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.alien_invasion" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test01" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ship" />
+        <item index="2" class="java.lang.String" itemvalue="Python.game_functions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.settings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.alien_invasion (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -328,15 +329,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -485,24 +487,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py/alien_invasion/ship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="-18">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/py/alien_invasion/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/py/alien_invasion/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="307">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="e#178#188#0" expanded="true" />
           </folding>
@@ -511,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py/alien_invasion/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="-18">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="e#178#191#0" expanded="true" />
           </folding>
