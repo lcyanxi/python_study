@@ -3,8 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py/aliens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py/alien_invasion" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6.2 (D:\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
