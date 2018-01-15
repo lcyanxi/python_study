@@ -8,8 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/py" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/py/alien_invasion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py/crawler" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.2 (D:\python\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.2 (C:\Program Files\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
