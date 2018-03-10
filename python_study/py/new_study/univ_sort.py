@@ -32,10 +32,11 @@ def fillUnivList(univList, html):
 
 
 def printUnivList(univList, num):
-    print("{:^10}\t{:^30}\t{:^10}\t{:^10}".format("排名", "学校名称", "城市", "分数"))
+    tplt = "{0:^10}\t{1:{4}^15}\t{2:^10}\t{3:^10}"
+    print(tplt.format("排名", "学校名称", "城市", "分数", chr(12288)))  # chr(12288)中文排版对齐
     for i in range(num):
         u = univList[i]
-        print("{:^10}\t{:^30}\t{:^10}\t{:^10}".format(u[0], u[1], u[2], u[3]))
+        print(tplt.format(u[0], u[1], u[2], u[3], chr(12288)))
 
 
 if __name__ == "__main__":
